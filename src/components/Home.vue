@@ -13,11 +13,11 @@
       <el-submenu index="1">
         <template slot="title">
           <i class="el-icon-s-platform"></i>
-          <span>服务大厅</span>
+          <span>菜单一</span>
         </template>
         <el-menu-item-group>
-          <el-menu-item index="1-1">在场服务</el-menu-item>
-          <el-menu-item index="1-2">历史服务</el-menu-item>
+          <el-menu-item index="1-1">菜单1</el-menu-item>
+          <el-menu-item index="1-2">菜单1</el-menu-item>
         </el-menu-item-group>
       </el-submenu>
        <el-submenu index="2">
@@ -33,21 +33,21 @@
       <el-submenu index="3">
         <template slot="title">
           <i class="el-icon-user-solid"></i>
-          <span>人员数据</span>
+          <span>用户管理</span>
         </template>
         <el-menu-item-group>
-          <el-menu-item index="1-1">人员数量</el-menu-item>
-          <el-menu-item index="1-2">人员位置</el-menu-item>
+          <el-menu-item index="1-1">人员1</el-menu-item>
+          <el-menu-item index="1-2">人员2</el-menu-item>
         </el-menu-item-group>
       </el-submenu>
       <el-submenu index="4">
         <template slot="title">
           <i class="el-icon-message-solid"></i>
-          <span>健康报警</span>
+          <span>菜单1</span>
         </template>
         <el-menu-item-group>
-          <el-menu-item index="1-1">心率报警</el-menu-item>
-          <el-menu-item index="1-2">血压报警</el-menu-item>
+          <el-menu-item index="1-1">菜单1</el-menu-item>
+          <el-menu-item index="1-2">菜单1</el-menu-item>
         </el-menu-item-group>
       </el-submenu>
     </el-menu>
